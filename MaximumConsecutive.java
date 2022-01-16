@@ -7,11 +7,6 @@ public class MaximumConsecutive
     {
         int arr[] = {1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1};
 
-        var Max_consecutive = 0;
-//        var t;
-        char c;
-        c = '5';
-
 //        int maximum_consecutive = 0;
         int count = 0;
         for (int i = 0; i < arr.length; i++)
