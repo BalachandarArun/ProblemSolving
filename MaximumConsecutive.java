@@ -1,6 +1,8 @@
 package solution;
-//        System.out.println(res == 0 ? num - num2 : Math.abs(Math.min(num - (num - res), Math.abs(num - ((num - res) + num2)))));
-
+/*
+    Sample solution using terenary opeator    
+    System.out.println(res == 0 ? num - num2 : Math.abs(Math.min(num - (num - res), Math.abs(num - ((num - res) + num2)))));
+*/
 public class MaximumConsecutive
 {
     public static void main(String[] args)
