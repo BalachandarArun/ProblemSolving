@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class AnagramsString {
     public static void main(String[] args) {
+        // Added some message
         Scanner scanner = new Scanner(System.in);
         String s1 = scanner.nextLine().trim();
         String s2 = scanner.nextLine().trim();
